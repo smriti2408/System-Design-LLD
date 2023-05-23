@@ -1,2 +1,6 @@
 # System-Design-LLD
-Concepts of LLD Design Pattern
+
+## Table of Contents
+
+- SOLID Principles
+- Strategy Pattern (Design Pattern #1)
